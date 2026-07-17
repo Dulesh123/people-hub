@@ -6,10 +6,3 @@ node_modules/
 
 # Logs
 *.log
-
-# OS Files
-.DS_Store
-Thumbs.db
-
-# VS Code
-.vscode/
